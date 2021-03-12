@@ -26,7 +26,6 @@ Sources of images for quickly creating interesting backgrounds:
 - [Townscaper] (https://store.steampowered.com/app/1291340/Townscaper/) - an app to quickly (and beautifully) create small towns
 - 
 
-- 💬 Get in touch with any questions
-- 📫 Find me [on twitter] (twitter.com/terence_fin)
+- 💬 Get in touch with any questions, find me [on twitter] (twitter.com/terence_fin)
 
 
