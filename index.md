@@ -27,6 +27,6 @@ Sources of images for quickly creating interesting backgrounds:
 - 
 
 - 💬 Get in touch with any questions
-- 📫 Find me [on twitter]: (twitter.com/terence_fin)
+- 📫 Find me [on twitter] (twitter.com/terence_fin)
 
 
