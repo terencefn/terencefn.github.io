@@ -18,14 +18,15 @@ Some ideas for making your Gather virtual learning space personal. Taking your s
 [Link](https://www.loom.com/share/431ee8b193614f38a7fe58ac932b29d8)
 
 Sources of images for quickly creating interesting backgrounds:
-[Google maps](maps.google.com) - use 3D mode and take a screenshot
-[Townscaper](https://store.steampowered.com/app/1291340/Townscaper/) - an app to quickly (and beautifully) create small towns
-[Google Art and Culture - images of art](https://artsandculture.google.com/category/artist)
-[Public domain space images from NASA](https://www.flickr.com/photos/nasacommons)
+- [Google maps](maps.google.com) - use 3D mode and take a screenshot
+- [Townscaper](https://store.steampowered.com/app/1291340/Townscaper/) - an app to quickly (and beautifully) create small towns
+- [Google Art and Culture - images of art](https://artsandculture.google.com/category/artist)
+- [Public domain space images from NASA](https://www.flickr.com/photos/nasacommons)
 
 💬 
-Get in touch with any questions, find me [on twitter](twitter.com/terence_fin)
+Get in touch with any questions, 
+- find me [on twitter](twitter.com/terence_fin)
 or
-terencefinnegan _at_ icloud.com
+- terencefinnegan _at_ icloud.com
 
 
