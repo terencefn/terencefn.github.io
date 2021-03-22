@@ -11,6 +11,7 @@ More to be added soon...
 
 # [Gather.town](Gather.town) - a free (for up to 25 participants) virtual space for meeting online.
 
+[RESOURCES PAGE](/resources.md)
 
 Some ideas for making your Gather virtual learning space personal. Taking your students into creative spaces: 
 
