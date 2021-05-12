@@ -15,7 +15,7 @@ And these Gather.town spaces used at skillshare events for teachers, as part of 
 
 
 Get in touch with any questions, 
-- find me [on twitter](twitter.com/terence_fin)
+- find me [on twitter](https://twitter.com/terence_fin)
 or
 - terencefinnegan _at_ icloud.com
 
