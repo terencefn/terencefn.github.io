@@ -11,7 +11,7 @@ Immersive | Fun | Interactive
 
 For example, this Gather.town [space for up to 250 concurrent users](https://player.vimeo.com/video/549832691) as part of a Careers event for teenagers.
 
-And these Gather.town [spaces used at skillshare events for teachers](https://vimeo.com/549834386), as part of the K20 Educators network:
+And these Gather.town [spaces used at skillshare events for teachers](https://vimeo.com/549834386), as part of the K20 Educators network.
 
 
 Get in touch with any questions, 
