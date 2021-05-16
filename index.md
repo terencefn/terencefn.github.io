@@ -18,5 +18,3 @@ Get in touch with any questions,
 - find me [on twitter](https://twitter.com/terence_fin)
 or
 - terencefinnegan _at_ icloud.com
-
-
